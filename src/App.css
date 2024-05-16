@@ -20,6 +20,11 @@
   border: 5px solid rgb(52, 50, 50);
 }
 
+.container-botones {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
 .fila {
   margin: 4px;
   display: flex;

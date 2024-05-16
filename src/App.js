@@ -68,7 +68,6 @@ function App() {
           <a href='https://www.instagram.com/enri_labrada?igsh=MWdnMHZobXNmZGVjbQ==' rel='noreferrer' target='_blank'><i className='bi bi-instagram'></i></a>
         </div>
       	</footer>
-
     </div>
   );
 }
